@@ -83,4 +83,10 @@ The dataset is released under [LICENSE — to be specified]. -->
  
 ## Disclaimer
  
-The views expressed here are those of the authors and do not necessarily reflect those of their respective institutions.
+The data included in this repository have been extracted from publicly available financial disclosures published by the respective institutions at consolidated level.
+The information has been compiled and processed with reasonable care and is provided for informational and analytical purposes only. While efforts have been made to ensure the accuracy and consistency of the data, no representation or warranty, express or implied, is made as to its completeness, accuracy or reliability.
+Differences in accounting standards, reporting practices, definitions, scope of consolidation of different Legal Entities in the same Banking Group and disclosure formats across institutions may affect the comparability of the reported figures.
+In case of any discrepancy, the original documents published by the relevant institution shall prevail. Users are therefore encouraged to refer to the source documents before relying on the data for any specific purpose.
+The repository may be updated, corrected or amended from time to time without prior notice. No liability is accepted for any loss or damage arising from the use of, or reliance on, the information contained herein.
+The information provided does not constitute financial, investment, accounting, legal or regulatory advice.
+If you have questions about how the dataset was built, want to discuss the methodology, or are interested in collaborating, contact us at: lorenzo.silotto@intesasanpaolo.com.
